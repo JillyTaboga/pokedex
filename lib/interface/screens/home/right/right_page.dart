@@ -13,7 +13,6 @@ class RighHome extends HookConsumerWidget {
   const RighHome({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final pokemons = ref.watch(pokemonsProvider);
     return Transform.translate(
       offset: const Offset(-3, 0),
       child: SizedBox(
