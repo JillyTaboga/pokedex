@@ -20,6 +20,7 @@ Um projeto de estudo sobre custom painter para desenhar formas especificas
 ## Exemplo
 
 <https://oldpokedex.web.app/>
+
 <https://github.com/JillyTaboga/pokedex/blob/master/pokedex.apk>
 
 (Infelizmente no navegador do celular a performance ainda é bem abaixo do ideal, recomendo para teste buildar o projeto ou utilizar o apk disponível)
