@@ -21,4 +21,6 @@ Um projeto de estudo sobre custom painter para desenhar formas especificas
 
 <https://oldpokedex.web.app/>
 
+(Infelizmente no navegador do celular a performance ainda é bem abaixo do ideal, recomendo para teste buildar o projeto ou utilizar o apk disponível)
+
 [![wakatime](https://wakatime.com/badge/user/4cd35845-67d5-4f6d-964c-41c26658b197/project/26d3cd25-a692-4aa1-9dc6-c161d48f07e8.svg)](https://wakatime.com/badge/user/4cd35845-67d5-4f6d-964c-41c26658b197/project/26d3cd25-a692-4aa1-9dc6-c161d48f07e8)
